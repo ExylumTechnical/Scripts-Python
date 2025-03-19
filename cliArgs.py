@@ -9,3 +9,7 @@ print("\nName of the script:", sys.argv[0])
 print("\nArguments passed to the script:", end = " ")
 for i in range(1, n):
     print(sys.argv[i], end = " ")
+    if(mode=="--option"):
+        # an option that accepts a command line argument
+        print(sys.argv[i]+" "+sys.argv[i+1], end = " ")
+            
