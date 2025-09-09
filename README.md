@@ -1,2 +1,8 @@
 # Python Scripts
-This is basically a list of all the functions I have used in the past and have proven usefull enough for me to want to share and use them elsewhere.
+
+## Reference
+These are scripts to be used as a reference without any real purpose other than providing a memory jog.
+
+## Apps
+Usefull server templates for applications
+
